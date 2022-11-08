@@ -6,7 +6,9 @@
 3 . Create Virtual environment 
 ### virtualenv env_site
 4 . Once virtual env is created , Activate the 'Scripts'
+
 5 . using Windows terminal install Django frame work 
+
 6 . Start a project by using :
 ### django-admin startproject `dir_name`
 
