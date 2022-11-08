@@ -1,6 +1,7 @@
 ## Procedure to setup Django Framework
 
 1 . Install Latest Python.exe
+
 2 . Install virtual environment
 ### pip install virtualenv
 3 . Create Virtual environment 
